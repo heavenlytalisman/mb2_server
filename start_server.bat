@@ -1,0 +1,1 @@
+jampDed.exe +set fs_game "MBII" +set net_port 29070 +exec server.cfg
